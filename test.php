@@ -1,4 +1,3 @@
-<?php echo 'test'
-//some comments  sadajkdhjk
-
-;?>
+<?php echo 'test';
+//asda/sadas
+?>
