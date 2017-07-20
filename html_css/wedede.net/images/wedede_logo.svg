@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="60px" viewBox="0 0 121 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>WEDEDE-LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M44.9950893,21 C43.8932319,21 43,21.8926228 43,22.9950893 L43,37.0049107 C43,38.1067681 43.8926228,39 44.9950893,39 L52,39 C56.9705627,39 61,34.9716556 61,30 L61,30 C61,25.0294373 56.9716556,21 52,21 L44.9950893,21 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M84.9950893,21 C83.8932319,21 83,21.8926228 83,22.9950893 L83,37.0049107 C83,38.1067681 83.8926228,39 84.9950893,39 L92,39 C96.9705627,39 101,34.9716556 101,30 L101,30 C101,25.0294373 96.9716556,21 92,21 L84.9950893,21 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WEDEDE-LOGO">
+            <rect id="Rectangle-3" fill="#1E1E1E" x="23" y="21" width="18" height="3" rx="1.5"></rect>
+            <path d="M14.4205206,39 C13.6067066,39 12.788532,38.3548279 12.591493,37.5525196 L9.9998984,27 L7.4083038,37.5525196 C7.21197381,38.351941 6.38502883,39 5.57927617,39 L5.57927617,39 L5.57927617,39 C4.76546209,39 3.94647635,38.3515249 3.7487666,37.5464854 L0.0431267214,22.4577684 C-0.154598691,21.6526652 0.346495803,21 1.15865394,21 C1.97246802,21 2.79213857,21.6512635 2.99020821,22.4577684 L5.57927617,33 L8.17087077,22.4474804 C8.36720076,21.648059 9.19414574,21 9.9998984,21 L9.9998984,21 L9.9998984,21 C10.8137125,21 11.631887,21.6451721 11.828926,22.4474804 L14.4205206,33 L17.0095886,22.4577684 C17.207314,21.6526652 18.0289847,21 18.8411429,21 C19.6549569,21 20.1547397,21.6512635 19.9566701,22.4577684 L16.2510302,37.5464854 C16.0538818,38.3492394 15.2262733,39 14.4205206,39 L14.4205206,39 L14.4205206,39 Z" id="Combined-Shape" fill="#1E1E1E"></path>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="23" y="36" width="18" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="23" y="29" width="9" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="63" y="21" width="18" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="63" y="36" width="18" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="67" y="29" width="9" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="103" y="21" width="18" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="103" y="36" width="18" height="3" rx="1.5"></rect>
+            <rect id="Rectangle-3" fill="#1E1E1E" x="112" y="29" width="9" height="3" rx="1.5"></rect>
+            <use id="Path-2" stroke="#1E1E1E" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+            <use id="Path-2" stroke="#1E1E1E" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>
